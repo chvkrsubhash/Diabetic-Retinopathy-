@@ -1,2 +1,2 @@
-# Diabetic-Retinopathy-
-CodeClause Internship
+ # Diabetic-Retinopathy-
+ 
